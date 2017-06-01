@@ -5,7 +5,9 @@ RJ Draw is an editor that is designed to allow you to make drawings from three b
 
 For more details, please open the file "Mini Projeto TPE2 - Organizacao.pdf".
 
-Authors: Rodrigo Teixeira (http://rodrigotnoronha.github.io/)
+Authors: 
+
+         Rodrigo Teixeira (http://rodrigotnoronha.github.io/)
          
          Joel Oliveira Ribeiro 
 
